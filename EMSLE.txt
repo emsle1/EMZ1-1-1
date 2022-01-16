@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Emily's Super Cool Website</title>
+	</head>
+	<body>
+		<h1></h1>
+		<h2>My Favorite Streamers!!!</h2>
+		<ul>
+			<li>Skyunno</li>
+			<li>Valkrie</li>
+			<li>Toast</li>
+			<li>Ryan Higa</li>
+			<li>LilyPichu</li>
+		</ul>
+		<h2>My Favorite Gamer Fuels</h2>
+		<ul>
+			<li>Doritos</li>
+			<li>Chic-Fil-A Sauce</li>
+			<li>Puff</li>
+			<li>Flume</li>
+			<li>Harvest uwu</li>
+		</ul>
+	</body>
+</html>
