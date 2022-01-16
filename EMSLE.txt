@@ -4,8 +4,7 @@
 		<title>Emily's Super Cool Website</title>
 	</head>
 	<body>
-		<h1></h1>
-		<h2>My Favorite Streamers!!!</h2>
+		<h1>My Favorite Streamers</h1>
 		<ul>
 			<li>Skyunno</li>
 			<li>Valkrie</li>
